@@ -3,7 +3,7 @@ A Web Developer from the Czech Republic. I like to code web applications and exp
 
 Thanks for visiting my GitHub profile. Have a great day ahead!
 
-<h2 align="center"> 💫 About Me 💫</h2>
+<h2 align="center"> ⛄ About Me ⛄</h2>
 
 ```js
 const Tom = {
@@ -21,7 +21,7 @@ const Tom = {
 }; // My stats as an Epic Object ✨
 ```
 
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> ❄ My Stats ❄</h2>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodosharlatan&theme=dark&hide_border=false">
@@ -52,7 +52,7 @@ const Tom = {
 
 <h2 align="center"> ⚙️ Last Updated ⚙️ </h2>
 
-<!-- Last updated on Sun Nov 30 2025 16:18:55 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Mon Dec 01 2025 01:40:25 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
-<i>Last updated on 30th November 2025 using Samsung Smart Refrigerator</i> 🧊 
+<i>Last updated on 1st December 2025 using Samsung Smart Refrigerator</i> 🎄 
 </div>
